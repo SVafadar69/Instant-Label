@@ -9,6 +9,8 @@ import ultralytics
 import vastai 
 from vastai import Serverless
 
+# print woop
+
 load_dotenv()
 
 vastai_api_key = os.getenv('vastai_api_key')
